@@ -9,8 +9,8 @@ Marcus Bøgelund Rasmussen: mara419@student.sdu.dk
 Contains the different tests, and the threads which allow the LMMs to not block the GUI, when running the full system.
 ### simulation.py
 Contains the class Simulation, which contains the general loop in which the robots move and new tasks are started.
-### gui.py
-Contains the class GUI, which allows the user to interact with the LLM Approach used in the simulation.
+### ui.py
+Contains the class UI, which allows the user to interact with the LLM Approach used in the simulation.
 ### map.py
 Contains the class Map, which handles the visual repersentation in the simulation.
 ### robotType.py
