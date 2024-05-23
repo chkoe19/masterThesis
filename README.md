@@ -41,7 +41,7 @@ Contains the images which are shown in the simulation.
 #### Step 2: Download the Llama 2 13B quantized model used for this thesis: https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF/blob/main/llama-2-13b-chat.Q5_K_M.gguf.
 #### Step 3: Place the downloaded model in the folder "models"
 #### Step 4: Figure out what you want to run
-If you want to run the full system with GUI and simulation do **XXXXXXXX**\
+If you want to run the full system with UI and simulation do **XXXXXXXX**\
 To exit, press "Exit program".\\
 If you want to run the full Standard Approach test do **XXXXXX**\
 If you want to run the full Chain-of-Thought test do **XXXXXX**\
