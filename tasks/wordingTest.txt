@@ -1,0 +1,39 @@
+Grab me a soda from the shelf.
+Bring me a soda from the shelf.
+Give me a soda from the shelf.
+Fetch me a soda from the shelf.
+Go to the shelf and bring back a can of soda.
+Grab a soda from the shelf to me.
+Bring a soda from the shelf to me.
+Get a soda from the shelf to me.
+Move a heavy object from position A to position B.
+Transport a heavy object from position A to position B.
+Pass a heavy object from position A to position B.
+Change position of a heavy object from position A to position B.
+Shift a heavy object from loaction A to location B.
+Relocate a heavy object from location A to location B.
+Drive a heavy object from location A to location B.
+Move from position A to position B one time.
+Move from position A to position B 1 time.
+Move from position A to position B two times.
+Move from position A to position B 2 times.
+Move from position A to position B three times.
+Move from position A to position B 3 times.
+Move from position A to position B five times.
+Move from position A to position B 5 times.
+Move from position A to position B seven times.
+Move from position A to position B 7 times.
+Move from position A to position B ten times.
+Move from position A to position B 10 times.
+Move back and forth from position A to position B one time.
+Move back and forth from position A to position B 1 time.
+Move back and forth from position A to position B two times.
+Move back and forth from position A to position B 2 times.
+Move back and forth from position A to position B three times.
+Move back and forth from position A to position B 3 times.
+Move back and forth from position A to position B five times.
+Move back and forth from position A to position B 5 times.
+Move back and forth from position A to position B seven times.
+Move back and forth from position A to position B 7 times.
+Move back and forth from position A to position B ten times.
+Move back and forth from position A to position B 10 times.

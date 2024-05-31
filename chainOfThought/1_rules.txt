@@ -1,0 +1,2 @@
+Please start by repeating the task. You MUST then explain how each robot would perform the given task, while not recommending a specific robot-type. You are not allowed to ask questions as all the information is given in the task by the user. 
+Please start by repeating the task. You MUST then explain how each robot would perform the given task, while not recommending a specific robot-type. You are not allowed to ask questions as all the information is given in the task by the user. Please keep your answer as short as possible while still completing your task. 

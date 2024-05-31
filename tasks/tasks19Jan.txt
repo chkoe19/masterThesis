@@ -1,0 +1,60 @@
+Move leaves from 3,3 to 5,5.
+Move leaves from the floor at 3,3 to 5,5.
+Move many leaves from 3,3 to 5,5.
+Move many leaves from the floor at 3,3 to 5,5.
+Move leaves from 3,3 to 5,5 using robot type 3.
+Get an apple on the shelf located at 6,2.
+Get an apple on the shelf located at 6,2 using robot type 2.
+A shelf with an apple is placed at 6,2. Get the apple.
+A shelf with an apple is placed at 6,2. Get the apple using a robot type 2.
+Get the apple placed on the shelf located at 6,2. After the apple has been picked up, go to 1,1.
+A shelf with an apple is placed at 6,2. Get the apple. Go to 1,1 after the apple has been picked up.
+Move from 2,2 to 10,10.
+A red flag is placed at 2,2 and a green flag is placed at 10,10. Move from the red flag to the green flag.
+Move from 3,3 to 11,11 using robot type 1.
+Move from a1,a2 to b1,b2.
+Move from A to B.
+Move fast from a1,a2 to b1,b2.
+Move fast from 10,10 to 2,2.
+Move a heavy cargo box from 1,1 to 15,2
+Move from coordinate A to coordinate B.
+Get the apple placed on the shelf located at 6,2 and place it on the table located. The table is located at 2,3.
+Move from 3,3 to 10,10 five times.
+Move from 3,3 to 10,10 two times.
+Move from 3,3 to 10,10 5 times.
+Move from 3,3 to 10,10 2 times.
+Moving first to 3,3, move then to 10,10, move then to 3,3, move then to 10,10.
+Moving first to 3,3, move then to 10,10, move then to 3,3, move then to 10,10, using robot type 1.
+Starting with moving to 3,3 move to 10,10 and back to 3,3. Repeat this two times.
+Starting with moving to 3,3 move to 10,10 and back to 3,3. Repeat this 2 times.
+Move the ball from 2,2 to 4,4 and place it on the shelf at 4,4.
+Move the ball from 2,2 to 4,4 and place it on the shelf at 4,4 using robot type 2.
+Move the heavy bowlingball from 2,2 to 4,4.
+Move the heavy bowlingball from 2,2 to 4,4 using robot type 3.
+Grab the trash at 1,1 and put it in the trash can at 6,2.
+Grab the trash at 1,1 and put it in the trash can at 10,10.
+Grab the trash at 1,1 and put it in the trash can at 10,10, using robot type 2.
+Pick up the paper at 1,0 and put it in the trash can at 10,10.
+Move gravel from 1,1 to 9,2.
+Move a pile of gravel from 1,1 to 9,2.
+Move gravel from 1,1 to 9,2 using robot type 3.
+I am located at 3,3 please move the gravel from 9.2 to me.
+I am located at 3,3 please grab me a soda from the shelf located at 13,1.
+I am located at 3,3 please bring me a soda from the shelf located at 13,1.
+Please grab me a soda from the shelf located at 13,1. I am located at 3,3.
+Please bring me a soda from the shelf located at 13,1. I am located at 3,3.
+Move a box from 2,2 to 2,2
+Transport a box from 10,10 to 11,11, but move through 3,3 when you have the box.
+Transport a stack of books from 4,4 to 8,8.
+Clear the pile of snow located at 1,1.
+Retrieve a bowl from the shelf at 6,2 and place it on the table at 4,4.
+Fetch a hammer from the workbench located at 10,10.
+Move swiftly from 5,5 to 2,2 to 9,9 to 1,1.
+Clear the gravel from the construction site at 10,10.
+Move bricks from 2,2 to 8,8.
+Move a single brick from 2,2 to 8,8.
+Pick up the heavy object from 3,3 and move it to 0,0.
+Remove overgrown bushes from location 10,1.
+Move sand from 1,8 to 9,10 using robot type 3.
+Move a heavy machine from 2,1 to 13,3.
+Move a heavy machine from 2,1 to 13,3, but clear 13,3 from sand first.

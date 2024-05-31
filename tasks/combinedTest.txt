@@ -1,0 +1,92 @@
+I am located at 7,5 please bring me a soda from the shelf located at 0,6.
+I am located at 13,31 please bring me a soda from the shelf located at 85,11.
+I am located at 477,520 please bring me a soda from the shelf located at 665,656.
+I am located at 1.72 , 7.82 please bring me a soda from the shelf located at 5.15 , 7.72.
+I am located at 6,2 please grab me a soda from the shelf located at 2,0.
+I am located at 94,13 please grab me a soda from the shelf located at 10,39.
+I am located at 601,894 please grab me a soda from the shelf located at 495,585.
+I am located at 4.26 , 4.36 please grab me a soda from the shelf located at 9.94 , 7.92.
+I am located at 0,7 please give me a soda from the shelf located at 3,6.
+I am located at 15,22 please give me a soda from the shelf located at 82,10.
+I am located at 570,676 please give me a soda from the shelf located at 152,706.
+I am located at 3.43 , 7.96 please give me a soda from the shelf located at 3.43 , 7.96.
+I am located at 8,2 please fetch me a soda from the shelf located at 1,2.
+I am located at 51,83 please fetch me a soda from the shelf located at 9,5.
+I am located at 481,941 please fetch me a soda from the shelf located at 71,355.
+I am located at 3.73 , 0.83 please fetch me a soda from the shelf located at 8.03 , 4.55.
+I am located at 8,8 please come with a soda from the self located at 6,2 to me.
+I am located at 16,12 please come with a soda from the self located at 96,89 to me.
+I am located at 213,428 please come with a soda from the self located at 108,308 to me.
+I am located at 8.55 , 1.72 please come with a soda from the self located at 7.57 , 4.9 to me.
+I am located at 7,8 please deliver me a soda from the shelf located at 7,1.
+I am located at 90,40 please deliver me a soda from the shelf located at 34,24.
+I am located at 375,504 please deliver me a soda from the shelf located at 642,932.
+I am located at 5.0 , 4.94 please deliver me a soda from the shelf located at 6.8 , 3.87.
+Go to the shelf at 7,0 and bring back a soda to me at 9,5.
+Go to the shelf at 97,3 and bring back a soda to me at 15,80.
+Go to the shelf at 674,647 and bring back a soda to me at 28,943.
+Go to the shelf at 8.98,5.41 and bring back a soda to me at 7.23,6.54.
+Grab a soda from the shelf at 3,7 to me at 6,8.
+Grab a soda from the shelf at 90,2 to me at 87,12.
+Grab a soda from the shelf at 466,207 to me at 685,275.
+Grab a soda from the shelf at 9.12,4.16 to me at 6.66,7.26.
+Bring a soda from the shelf at 8,0 to me at 7,3.
+Bring a soda from the shelf at 45,10 to me at 95,92.
+Bring a soda from the shelf at 841,703 to me at 86,203.
+Bring a soda from the shelf at 4.07,8.62 to me at 0.22,7.6.
+Get a soda from the shelf at 6,0 to me at 0,2.
+Get a soda from the shelf at 61,40 to me at 93,2.
+Get a soda from the shelf at 828,218 to me at 87,520.
+Get a soda from the shelf at 7.99,7.94 to me at 3.21,1.99.
+Move a heavy object from 8,8 to 0,1.
+Move a heavy object from 35,91 to 45,87.
+Move a heavy object from 203,634 to 381,832.
+Move a heavy object from 9.17,7.65 to 2.95,1.26.
+Transport a heavy objectfrom 2,7 to 7,1.
+Transport a heavy objectfrom 32,66 to 75,51.
+Transport a heavy objectfrom 290,400 to 519,737.
+Transport a heavy objectfrom 9.08,2.55 to 6.9,9.44.
+Pass a heavy object from 0,2 to 9,1.
+Pass a heavy object from 16,1 to 62,45.
+Pass a heavy object from 962,458 to 919,789.
+Pass a heavy object from 6.35,2.31 to 7.85,5.29.
+Change position of a heavy object from 1,2 to 3,3.
+Change position of a heavy object from 91,86 to 92,11.
+Change position of a heavy object from 120,514 to 319,382.
+Change position of a heavy object from 0.28,6.41 to 1.18,1.18.
+Shift a heavy object from 3,4 to 1,5.
+Shift a heavy object from 26,28 to 56,41.
+Shift a heavy object from 132,452 to 437,345.
+Shift a heavy object from 8.91,5.81 to 9,.65,1.56.
+Relocate a heavy object from 1,8 to 4,5.
+Relocate a heavy object from 44,49 to 31,69.
+Relocate a heavy object from 191,508 to 680,21.
+Relocate a heavy object from 4.67,2.26 to 4.7,9.37.
+Drive a heavy object from 0,2 to 4,1.
+Drive a heavy object from 26,47 to 17,92.
+Drive a heavy object from 815,34 to 398,889.
+Drive a heavy object from 2.03,8.0 to 7.22,6.0.
+Move from 13,3 to 3,3 one time
+Move from 13,3 to 3,3 1 time
+Move from 13,3 to 3,3 two times
+Move from 13,3 to 3,3 2 times
+Move from 13,3 to 3,3 three times
+Move from 13,3 to 3,3 3 times
+Move from 13,3 to 3,3 five times
+Move from 13,3 to 3,3 5 times
+Move from 13,3 to 3,3 seven times
+Move from 13,3 to 3,3 7 times
+Move from 13,3 to 3,3 ten times
+Move from 13,3 to 3,3 10 times
+Move back and forth from 13,3 to 3,3 one time
+Move back and forth from 13,3 to 3,3 1 time
+Move back and forth from 13,3 to 3,3 two times
+Move back and forth from 13,3 to 3,3 2 times
+Move back and forth from 13,3 to 3,3 three times
+Move back and forth from 13,3 to 3,3 3 times
+Move back and forth from 13,3 to 3,3 five times
+Move back and forth from 13,3 to 3,3 5 times
+Move back and forth from 13,3 to 3,3 seven times
+Move back and forth from 13,3 to 3,3 7 times
+Move back and forth from 13,3 to 3,3 ten times
+Move back and forth from 13,3 to 3,3 10 times
