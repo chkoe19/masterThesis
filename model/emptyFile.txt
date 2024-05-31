@@ -1,0 +1,2 @@
+Is here to allow the folder to being uploaded.
+Place the downloaded model in this folder.
