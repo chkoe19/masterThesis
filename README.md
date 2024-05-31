@@ -39,12 +39,16 @@ Contains the images which are shown in the simulation.
 # How to run the code
 #### Step 1: Clone this repo and install the dependencies described in the requirements file.
 #### Step 2: Download the Llama 2 13B quantized model used for this thesis: https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF/blob/main/llama-2-13b-chat.Q5_K_M.gguf.
-#### Step 3: Place the downloaded model in the folder "models"
+#### Step 3: Place the downloaded model in the folder "model"
 #### Step 4: Figure out what you want to run
-If you want to run the full system with UI and simulation do **XXXXXXXX**\
-To exit, press "Exit program".\\
-If you want to run the full Standard Approach test do **XXXXXX**\
-If you want to run the full Chain-of-Thought test do **XXXXXX**\
-If you want to run the full ReAct test do **XXXXXXX**\
-If you want to see a test of the Inner Monologue functionality do **xxxxxxx**\
-If you want to run the full Model Capabilities test do **XXXXXXX**\
+**If you want to run the full system with UI and simulation run the main.py file as is.** \
+To exit, press "Exit program".
+
+**If you want to run any of the single tests do one of the following** \
+Start by commenting out **line 1187**: "fullSystem()" in the file **main.py** \
+If you want to run the full Model Capabilities test comment in **line 1182**: "modelCapabilitiesTest()", line  \
+If you want to run the full Standard Approach test comment in **line 1183**: "standardApproachTest()" \
+If you want to run the full Chain-of-Thought Approach test comment in **line 1184**: "chainOfThoughtApproachTest()" \
+If you want to run the full ReAct Approach test do comment in **line 1185**: "reActApproachTest()" \
+If you want to see an example of the Inner Monologue functionality comment in **line 1186**: "IMExample()" \
+
