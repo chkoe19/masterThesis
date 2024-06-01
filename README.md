@@ -35,6 +35,8 @@ Contains the System Prompts for the model capabilities tests.
 Contains the tasks for all tests.
 ### simFigures
 Contains the images which are shown in the simulation.
+### model
+Place the specified model in this folder. See below.
 
 # How to run the code
 #### Step 1: Clone this repo and install the dependencies described in the requirements file.
